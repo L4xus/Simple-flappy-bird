@@ -1,4 +1,4 @@
-# beta 1
+<a href="https://github.com/cool5tar/Simple-flappy-bird/releases/download/flp-b1/flappy.bird.b1.apk">**Beta 1**</a>
 
 # features
 1. Made with a fast unity game engine
